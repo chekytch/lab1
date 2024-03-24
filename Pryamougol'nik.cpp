@@ -1,5 +1,5 @@
 #include <iostream>
-#include <cmath> // Для использования функции sqrt()
+#include <cmath> 
 
 using namespace std;
 
