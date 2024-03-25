@@ -23,6 +23,8 @@ int main() {
     cout << "Периметр прямоугольника: " << perimeter << endl;
     cout << "Площадь прямоугольника: " << area << endl;
     cout << "Длина диагонали прямоугольника: " << diagonal << endl;
+    int end;
+    cin>>end;
     
     return 0;
 }
